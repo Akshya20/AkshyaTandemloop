@@ -1,0 +1,1 @@
+This repository contains solutions to four JavaScript problems based on logic, loops, and basic class usage. These problems were designed to strengthen understanding of fundamental JavaScript concepts.
